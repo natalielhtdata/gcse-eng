@@ -54,7 +54,7 @@ app.post("/evaluate", async (req, res) => {
 
 let prompt = "";
 
-if (questionType === "language_analysis") {
+if (Type === "language_analysis") {
   prompt = `
 You are a GCSE English teacher giving detailed feedback on a student's response to a language analysis question.
 
@@ -106,7 +106,7 @@ Include **as many improved lines as needed**, not just the weakest ones.
 `;
 }
 
-else if (questionType === "evaluation_question") {
+else if (Type === "evaluation_question") {
   prompt = `
 You are a GCSE English teacher giving detailed feedback on a student's response to an **evaluation question** (e.g. "To what extent do you agree...?").
 
