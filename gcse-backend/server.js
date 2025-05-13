@@ -1,13 +1,26 @@
 const fs = require("fs");
+const path = require("path");
 const express = require("express");
 const cors = require("cors");
 require("dotenv").config();
 const { OpenAI } = require("openai");
 
-// ✅ Initialize Express app
 const app = express();
 app.use(cors());
 app.use(express.json());
+
+// ✅ Serve React frontend build (assumes it's in ../gcse-chatbot/build)
+const buildPath = path.join(__dirname, "../gcse-chatbot/build");
+if (fs.existsSync(buildPath)) {
+  app.use(express.static(buildPath));
+
+  // Catch-all: serve index.html for any unknown route (React handles routing)
+  app.get("*", (req, res) => {
+    res.sendFile(path.join(buildPath, "index.html"));
+  });
+} else {
+  console.warn("⚠️ React build folder not found. Make sure to build it.");
+}
 
 // ✅ Setup OpenAI
 const openai = new OpenAI({
@@ -34,7 +47,7 @@ try {
   console.error("❌ Error loading 'questions.json':", error);
 }
 
-// ✅ GET: Fetch all questions
+// ✅ API: GET questions
 app.get("/questions", (req, res) => {
   if (questions.length === 0) {
     return res.status(404).json({ error: "No questions available!" });
@@ -42,7 +55,7 @@ app.get("/questions", (req, res) => {
   res.json(questions);
 });
 
-// ✅ POST: Evaluate student answer
+// ✅ API: POST evaluate
 app.post("/evaluate", async (req, res) => {
   const { questionId, userAnswer } = req.body;
   const question = questions.find(q => q.id === questionId);
@@ -121,12 +134,7 @@ ${modelAnswer}
   try {
     const completion = await openai.chat.completions.create({
       model: "gpt-4",
-      messages: [
-        {
-          role: "system",
-          content: prompt,
-        },
-      ],
+      messages: [{ role: "system", content: prompt }],
     });
 
     const feedback = completion.choices?.[0]?.message?.content || "No feedback generated.";
@@ -137,8 +145,8 @@ ${modelAnswer}
   }
 });
 
-// ✅ Start the server
-const PORT = 5000;
+// ✅ Start server
+const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log(`✅ Server running at http://localhost:${PORT}`);
+  console.log(`✅ Server running on port ${PORT}`);
 });
