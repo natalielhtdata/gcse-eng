@@ -81,18 +81,15 @@ Use GCSE teacher tone: clear, supportive, realistic. Be specific — not general
 
 ---
 
-## ✍️ Rewrite Suggestions
+## 📄 Rewrite Suggestions
 
 Go through the student’s answer line-by-line or sentence-by-sentence.
-
 For every sentence that could be improved — whether vague, unfocused, or just “mid-level” — provide:
 
 ✍️ Student Line:  
 [original student sentence]
-
 🧠 Tip:  
 Explain why the line could be improved (missing technique? weak reader effect? not zoomed in enough? no structure?).
-
 ✨ Rewrite:  
 Offer a Grade 8–9 style rewrite. Don’t sound too polished or academic — just a well-trained student using the right features and structure. Include specific technique names and deeper effect analysis.
 
