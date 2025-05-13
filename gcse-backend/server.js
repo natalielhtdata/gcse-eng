@@ -71,8 +71,6 @@ Start with a general comment on the student’s work:
 - What they do well (e.g. quote selection, technique naming, structure)
 - What needs improving (e.g. vague commentary, missing effects, weak technique use)
 
-Use a warm tone — this is coaching, not grading.
-
 ---
 
 ## 🔍 Lines That Need Improvement
@@ -87,7 +85,7 @@ For each one:
 [Paste the original line]
 
 ❌ What’s missing:  
-Name what’s unclear, weak, or vague. Use PETER language.
+Name what’s unclear, vague or not using **language feature**. Use PETER language.
 
 🧠 Tip:  
 Reference the model answer or relevant **language feature** if it helps (e.g. simile, modal verb, sentence form)
@@ -108,13 +106,13 @@ Use these when relevant in rewrites or comments:
 
 ---
 
-## 📘 Model Answer (do not rewrite — just show it at the end for student reference)
+## 📘 Model Answer 
 
 ${modelAnswer}
 
 ---
 
-💬 Write like a real teacher giving warm, practical advice. Avoid jargon or judging. Show how to improve.
+💬 Write with reference to the model answer. Show how to improve to Grade 9 in GCSE.
 `;
 
   try {
