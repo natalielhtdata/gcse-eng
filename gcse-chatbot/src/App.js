@@ -76,6 +76,11 @@ function App() {
 
   return (
     <div style={{ padding: "2rem", fontFamily: "Arial, sans-serif" }}>
+    <img
+  src="/Ednovate-Logo-white.png"
+  alt="Organisation Logo"
+  style={{ maxWidth: "200px", marginBottom: "1rem" }}
+/>
       <h2>GCSE English Feedback Assistant</h2>
 
       {loading ? (
