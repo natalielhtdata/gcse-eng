@@ -55,7 +55,13 @@ app.post("/evaluate", async (req, res) => {
 const prompt = `
 You are a GCSE English teacher giving detailed feedback on a student's response to a language analysis question.
 
-You must guide the student to improve toward a Grade 8–9 using clear, structured, and realistic advice. You must provide the following:
+You must guide the student to improve toward a Grade 8–9 using clear, structured, and realistic advice. 
+
+---
+
+## 📄 Student Answer
+
+${userAnswer}
 
 ---
 
