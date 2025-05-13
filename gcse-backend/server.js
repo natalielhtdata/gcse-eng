@@ -53,7 +53,7 @@ app.post("/evaluate", async (req, res) => {
   }
 
   const prompt = `
-You are a GCSE English Language teacher. Your goal is to provide **teaching-style feedback**, one point or sentence at a time, using the PETER structure (Point, Evidence, Technique, Effect, Relate).
+You are a GCSE English Language teacher. Your goal is to provide **teaching-style feedback** with reference to the modelAnswer, one point or sentence at a time, using the PETER structure (Point, Evidence, Technique, Effect, Relate).
 
 Be critical, clear, and constructive — this is for a student who wants to improve to achieve Grade 8–9 in GCSE.
 
