@@ -46,6 +46,7 @@ app.get("/questions", (req, res) => {
 app.post("/evaluate", async (req, res) => {
   const { questionId, userAnswer } = req.body;
   const question = questions.find(q => q.id === questionId);
+  const questionType = question?.Type;
   const modelAnswer = question?.model_answers?.[0];
 
   if (!question || !userAnswer || !modelAnswer) {
@@ -54,7 +55,7 @@ app.post("/evaluate", async (req, res) => {
 
 let prompt = "";
 
-if (Type === "language_analysis") {
+if (questionType === "language_analysis") {
   prompt = `
 You are a GCSE English teacher giving detailed feedback on a student's response to a language analysis question.
 
@@ -106,7 +107,7 @@ Include **as many improved lines as needed**, not just the weakest ones.
 `;
 }
 
-else if (Type === "evaluation_question") {
+else if (questionType === "evaluation_question") {
   prompt = `
 You are a GCSE English teacher giving detailed feedback on a student's response to an **evaluation question** (e.g. "To what extent do you agree...?").
 
