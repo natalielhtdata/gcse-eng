@@ -9,8 +9,8 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// ✅ Serve React frontend build (assumes it's in ../gcse-chatbot/build)
-const buildPath = path.join(__dirname, "../gcse-chatbot/build");
+// ✅ Serve React frontend build (assumes it's in ../build)
+const buildPath = path.join(__dirname, "build");
 if (fs.existsSync(buildPath)) {
   app.use(express.static(buildPath));
 
