@@ -9,19 +9,6 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// ✅ Serve React frontend build (assumes it's in ../build)
-const buildPath = path.join(__dirname, "build");
-if (fs.existsSync(buildPath)) {
-  app.use(express.static(buildPath));
-
-  // Catch-all: serve index.html for any unknown route (React handles routing)
-  app.get("*", (req, res) => {
-    res.sendFile(path.join(buildPath, "index.html"));
-  });
-} else {
-  console.warn("⚠️ React build folder not found. Make sure to build it.");
-}
-
 // ✅ Setup OpenAI
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -144,6 +131,18 @@ ${modelAnswer}
     res.status(500).json({ error: "AI feedback failed." });
   }
 });
+
+// ✅ Serve React frontend (must come AFTER API routes)
+const buildPath = path.join(__dirname, "build");
+if (fs.existsSync(buildPath)) {
+  app.use(express.static(buildPath));
+
+  app.get("*", (req, res) => {
+    res.sendFile(path.join(buildPath, "index.html"));
+  });
+} else {
+  console.warn("⚠️ React build folder not found. Make sure to build it.");
+}
 
 // ✅ Start server
 const PORT = process.env.PORT || 5000;
