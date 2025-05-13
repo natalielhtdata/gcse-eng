@@ -9,7 +9,7 @@ function App() {
   const [feedback, setFeedback] = useState("");
 
   useEffect(() => {
-    fetch("http://localhost:5000/questions")
+    fetch("/questions")
       .then(res => res.json())
       .then(data => setQuestions(data))
       .catch(err => console.error("Error loading questions", err))
@@ -23,7 +23,7 @@ function App() {
     setFeedback("Generating feedback...");
 
     try {
-      const res = await fetch("http://localhost:5000/evaluate", {
+      const res = await fetch("/evaluate", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
