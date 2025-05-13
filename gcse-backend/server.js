@@ -46,7 +46,7 @@ app.get("/questions", (req, res) => {
 app.post("/evaluate", async (req, res) => {
   const { questionId, userAnswer } = req.body;
   const question = questions.find(q => q.id === questionId);
-  const questionType = question?.Type;
+  const questionType = question?.type;
   const modelAnswer = question?.model_answers?.[0];
 
   if (!question || !userAnswer || !modelAnswer) {
