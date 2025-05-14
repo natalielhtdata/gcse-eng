@@ -105,7 +105,7 @@ Include **as many improved lines as needed**, not just the weakest ones.
 
 ## ➕ Suggested Points or Elaborations You Missed
 
-You must compare with the modelAnswer and list 1–2 additional ideas that the student has missed and could have included to earn higher marks. These should relate to:
+You must list 2-3 additional ideas and elaborations that the student has missed compare with the modelAnswer to help student earn Grade 8-9. These should relate to:
 
 - Points of analysis of language techniques
 - Interpretations that connect to writer's purpose or reader effect
