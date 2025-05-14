@@ -69,6 +69,12 @@ ${userAnswer}
 
 ---
 
+## 📄 Model Answer (for internal reference only)
+
+${modelAnswer}
+
+---
+
 ## ✅ Overall Feedback
 
 Write 1-4 bullet points. This is your main teacher comment.
@@ -126,6 +132,12 @@ You must help the student develop a structured, well-supported opinion using cle
 ## 📄 Student Answer
 
 ${userAnswer}
+
+---
+
+## 📄 Model Answer (for internal reference only)
+
+${modelAnswer}
 
 ---
 
