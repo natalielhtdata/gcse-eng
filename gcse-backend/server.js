@@ -109,29 +109,22 @@ Include **as many improved lines as needed**, not just the weakest ones.
 
 ---
 
-## ➕ Suggested Points or Elaborations You Missed
+## Missed Ideas or Techniques (Based on Comparison with the Model Answer)
 
-Compare the student answer to the model answer **sentence-by-sentence**.
+Now compare the student’s answer directly with the modelAnswer provided above.
 
-Identify **2 or 3 specific points** that are clearly present in the model answer but missing from the student’s answer.
+Identify 2–4 specific quotes, interpretations, or techniques that are present in the modelAnswer but clearly missing or underdeveloped in the student’s answer.
 
-Use this format for each missed point:
+Focus on points where the modelAnswer:
+- Analyzed a powerful quote the student didn’t use
+- Identified a technique (like metaphor, repetition, contrast, etc.) the student missed
+- Provided a deeper interpretation or writer’s intention the student ignored
 
-🔍 **Missed Idea:**
-[Summarise the idea/technique/example used in the model answer.]
+Write your feedback naturally, like a teacher giving guidance. Do not say “in the model answer” — just give clear coaching about what the student missed and what they could add.
 
-📌 **Why It Matters:**
-[Explain what this adds — e.g. a deeper interpretation, more precise technique, or stronger effect.]
+Be precise. Name the technique or quote. Suggest how it could be included.
 
-🧠 **Tip for Student:**
-[Give advice on how to include this idea in their own answer — without copying it.]
-
-You MUST use ideas found directly in the model answer, such as:
-- Named techniques or methods (e.g. metaphor, alliteration, modal verbs, contrast)
-- Specific quotes or phrases the model analysed
-- Deeper interpretations or effect analysis the student missed
-
-Do NOT say “the model answer said...” — just describe the missed points naturally as helpful teacher advice.
+The goal is to help the student *see exactly what high-level points they overlooked*, based on a direct comparison with the model answer above.
 
 ---
 💬 You are not just correcting — you are coaching. Do not mention “PETER” or “model answer” in your feedback. Just teach clearly through structure, technique, and smart rewriting.
