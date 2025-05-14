@@ -109,25 +109,36 @@ Include **as many improved lines as needed**, not just the weakest ones.
 
 ---
 
-## Missed Ideas or Techniques (Based on Comparison with the Model Answer)
+## 🔍 What else can be added
 
-Now compare the student’s answer directly with the modelAnswer provided above.
+You now have both the student answer and the model answer.
 
-Identify 2–4 specific quotes, interpretations, or techniques that are present in the modelAnswer but clearly missing or underdeveloped in the student’s answer.
+Your job is to find 2–3 specific ideas, quotes, or techniques that are clearly present in the model answer, but missing from the student answer.
 
-Focus on points where the modelAnswer:
-- Analyzed a powerful quote the student didn’t use
-- Identified a technique (like metaphor, repetition, contrast, etc.) the student missed
-- Provided a deeper interpretation or writer’s intention the student ignored
+For each point:
+- Use a quote or paraphrased idea directly from the model answer
+- Be precise — only use points clearly present in the model answer
+- Only identify ideas **not present at all** in the student answer (don’t say something is missing if the student partially covered it)
 
-Write your feedback naturally, like a teacher giving guidance. Do not say “in the model answer” — just give clear coaching about what the student missed and what they could add.
-
-Be precise. Name the technique or quote. Suggest how it could be included.
-
-The goal is to help the student *see exactly what high-level points they overlooked*, based on a direct comparison with the model answer above.
+Give feedback in this structure:
 
 ---
-💬 You are not just correcting — you are coaching. Do not mention “PETER” or “model answer” in your feedback. Just teach clearly through structure, technique, and smart rewriting.
+
+**Missed Point:**
+[State the idea or quote from the model — e.g. “The metaphor ‘pounced like tigers’ suggests wild energy.”]
+
+**Why it matters:**
+[Explain how this point helps with interpretation, technique, tone, or writer’s purpose.]
+
+**How to include it:**
+[Explain how the student could add this point — name the technique, the quote, and how to fit it into a sentence.]
+
+---
+
+Do not guess or invent points. Do not make vague comments like “go deeper” or “use more techniques.” Every suggestion must be tied to an actual quote or idea found in the model answer.
+
+---
+💬 You are not just correcting — you are coaching. 
 `;
 }
 
