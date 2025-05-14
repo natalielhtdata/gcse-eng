@@ -109,34 +109,22 @@ Include **as many improved lines as needed**, not just the weakest ones.
 
 ---
 
-## 🔍 What else can be added
+## 🧠 Additional Ideas You Could Include
 
-You now have both the student answer and the model answer.
+Below is the model answer, broken into key numbered points. Review each one.
 
-Your job is to find 2–3 specific ideas, quotes, or techniques that are clearly present in the model answer, but missing from the student answer.
-
-For each point:
-- Use a quote or paraphrased idea directly from the model answer
-- Be precise — only use points clearly present in the model answer
-- Only identify ideas **not present at all** in the student answer (don’t say something is missing if the student partially covered it)
-
-Give feedback in this structure:
+If the student **does not mention** that point in their answer, explain what was missed in a short teacher-style paragraph. Do not use bullet points. Do not name the “model answer.” Just explain what the student could have added, naturally.
 
 ---
 
-**Missed Point:**
-[State the idea or quote from the model — e.g. “The metaphor ‘pounced like tigers’ suggests wild energy.”]
+### Model Answer Key Points:
 
-**Why it matters:**
-[Explain how this point helps with interpretation, technique, tone, or writer’s purpose.]
+1. [Sentence or idea 1 from model answer]
+2. [Sentence or idea 2 from model answer]
+3. [Sentence or idea 3 from model answer]
+4. [etc.]
 
-**How to include it:**
-[Explain how the student could add this point — name the technique, the quote, and how to fit it into a sentence.]
-
----
-
-Do not guess or invent points. Do not make vague comments like “go deeper” or “use more techniques.” Every suggestion must be tied to an actual quote or idea found in the model answer.
-
+Now write teacher feedback paragraphs only for the points the student missed.
 ---
 💬 You are not just correcting — you are coaching. 
 `;
