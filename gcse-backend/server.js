@@ -103,6 +103,17 @@ Include **as many improved lines as needed**, not just the weakest ones.
 
 ---
 
+## ➕ Suggested Points or Elaborations You Missed
+
+List 1–3 additional ideas or insights that the student could have included to earn higher marks. These should relate to:
+
+- Deeper analysis of language techniques
+- Specific word choices or structural effects
+- Interpretations that connect to writer's purpose or reader effect
+
+Use the model answer for inspiration, but do **not** reference it directly.
+
+---
 💬 You are not just correcting — you are coaching. Do not mention “PETER” or “model answer” in your feedback. Just teach clearly through structure, technique, and smart rewriting.
 `;
 }
