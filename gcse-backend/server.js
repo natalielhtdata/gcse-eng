@@ -181,22 +181,27 @@ Include **as many improved lines as needed**, not just the worst ones.
 ---
 ## ➕ Suggested Points or Elaborations You Missed
 
-Now carefully compare the student answer to the model answer above.
+Compare the student answer to the model answer **sentence-by-sentence**.
 
-List 2–3 key ideas, language points, or interpretations that are clearly present in the model answer but are **missing** or **underdeveloped** in the student’s response.
+Identify **2 or 3 specific points** that are clearly present in the model answer but missing from the student’s answer.
 
-These must be:
+Use this format for each missed point:
 
-- Specific language techniques, methods, or stylistic choices the model answer explores
-- Deeper interpretations (e.g. writer’s purpose, tone, reader effect) that help push the response to a Grade 8–9
-- Clear evidence or quotes used in the model answer that the student did not use
+🔍 **Missed Idea:**
+[Summarise the idea/technique/example used in the model answer.]
 
-You must:
-- Name and explain the missed ideas or elaborations
-- DO NOT mention the phrase “model answer” or compare directly in the output
-- Simply present the missed opportunities as helpful coaching tips
+📌 **Why It Matters:**
+[Explain what this adds — e.g. a deeper interpretation, more precise technique, or stronger effect.]
 
-Make this section focused and specific — not general advice.
+🧠 **Tip for Student:**
+[Give advice on how to include this idea in their own answer — without copying it.]
+
+You MUST use ideas found directly in the model answer, such as:
+- Named techniques or methods (e.g. metaphor, alliteration, modal verbs, contrast)
+- Specific quotes or phrases the model analysed
+- Deeper interpretations or effect analysis the student missed
+
+Do NOT say “the model answer said...” — just describe the missed points naturally as helpful teacher advice.
 ---
 💬 Speak like a real teacher giving coaching. Do not reference the model answer. Focus on structure, evidence, and zoom-in analysis.
 `;
