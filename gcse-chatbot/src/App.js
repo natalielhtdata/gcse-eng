@@ -76,7 +76,7 @@ function App() {
 
   return (
     <div style={{ padding: "2rem", fontFamily: "Arial, sans-serif" }}>
-      <h2>GCSE English Feedback Assistant</h2>
+      <h2>GCSE English AI Teacher</h2>
 
       {loading ? (
         <p>Loading questions...</p>
@@ -130,7 +130,7 @@ function App() {
 
           {submitted && (
             <div style={{ marginTop: "2rem" }}>
-              <h3>AI Feedback:</h3>
+              <h3>AI Teacher Feedback:</h3>
               <div
                 style={{
                   backgroundColor: "#f9f9f9",
