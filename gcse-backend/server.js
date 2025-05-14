@@ -71,7 +71,7 @@ ${userAnswer}
 
 ## ✅ Overall Feedback
 
-Write 4–6 bullet points. This is your main teacher comment.
+Write 1-4 bullet points. This is your main teacher comment.
 
 Focus on:
 - Whether the student applied the **PETER structure** effectively (Point, Evidence, Technique, Effect, Relate)
@@ -79,7 +79,7 @@ Focus on:
   - Techniques: metaphor, simile, personification, alliteration, repetition, contrast, tone, antithesis
   - Word types: vivid verbs, strong adjectives, modal verbs, pronouns, colour language
   - Structure: clusters, lists, imagery, sentence form (simple/complex, exclamatory, imperative, etc.)
-- Quietly compare with the model answer: comment on how the student could improve depth, precision, or structure, **without ever naming or referencing the model**
+- Quietly compare with the modelAnswer: comment on how the student could improve depth, precision, or structure, **without ever naming or referencing the model**
 
 Use GCSE teacher tone: clear, supportive, realistic. Be specific — not general praise.
 
@@ -88,7 +88,7 @@ Use GCSE teacher tone: clear, supportive, realistic. Be specific — not general
 ## 📄 Rewrite Suggestions
 
 Go through the student’s answer line-by-line or sentence-by-sentence.
-For every sentence that could be improved — whether vague, unfocused, or just “mid-level” — provide:
+Rewrite 3 sentences that could be improved — whether vague, unfocused, or just “mid-level” — provide:
 
 ✍️ Student Line:  
 [original student sentence]
@@ -105,7 +105,7 @@ Include **as many improved lines as needed**, not just the weakest ones.
 
 ## ➕ Suggested Points or Elaborations You Missed
 
-Compare with the model answer and list 1–2 additional ideas that the student has missed and could have included to earn higher marks. These should relate to:
+You must compare with the modelAnswer and list 1–2 additional ideas that the student has missed and could have included to earn higher marks. These should relate to:
 
 - Points of analysis of language techniques
 - Interpretations that connect to writer's purpose or reader effect
@@ -131,7 +131,7 @@ ${userAnswer}
 
 ## ✅ Overall Feedback
 
-Write 4–6 bullet points of feedback.
+Write 1-4 bullet points of feedback.
 
 Focus on:
 - Whether the student **clearly stated and sustained their opinion** (did they address both parts of the opinion?)
@@ -139,7 +139,7 @@ Focus on:
 - Whether they **analysed the language** of each quote, not just included it
 - Whether their points were **grouped into at least three clear paragraphs** with an introduction and conclusion
 - Whether they **linked each paragraph back to their opinion**
-- Quietly compare to the model answer’s depth, technique focus, and structure (but don’t mention it)
+- Quietly compare to the modelAnswer’s depth, technique focus, and structure (but don’t mention it)
 
 ---
 
@@ -147,7 +147,7 @@ Focus on:
 
 Go through the student’s answer line-by-line or sentence-by-sentence.
 
-Only rewrite lines that could be made stronger — those that:
+Rewrite 3 lines that could be made stronger — those that:
 - Don’t clearly express the student’s view
 - Use a quote but give no analysis
 - Don’t show a clear effect, purpose, or technique
