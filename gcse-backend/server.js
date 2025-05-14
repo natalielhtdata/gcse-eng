@@ -181,10 +181,22 @@ Include **as many improved lines as needed**, not just the worst ones.
 ---
 ## ➕ Suggested Points or Elaborations You Missed
 
-You must list 2-3 additional ideas and elaborations that the student has missed compare with the modelAnswer to help student earn Grade 8-9. These should relate to:
+Now carefully compare the student answer to the model answer above.
 
-- Points of analysis of language techniques
-- Interpretations that connect to writer's purpose or reader effect
+List 2–3 key ideas, language points, or interpretations that are clearly present in the model answer but are **missing** or **underdeveloped** in the student’s response.
+
+These must be:
+
+- Specific language techniques, methods, or stylistic choices the model answer explores
+- Deeper interpretations (e.g. writer’s purpose, tone, reader effect) that help push the response to a Grade 8–9
+- Clear evidence or quotes used in the model answer that the student did not use
+
+You must:
+- Name and explain the missed ideas or elaborations
+- DO NOT mention the phrase “model answer” or compare directly in the output
+- Simply present the missed opportunities as helpful coaching tips
+
+Make this section focused and specific — not general advice.
 ---
 💬 Speak like a real teacher giving coaching. Do not reference the model answer. Focus on structure, evidence, and zoom-in analysis.
 `;
