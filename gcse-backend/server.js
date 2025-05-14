@@ -167,7 +167,13 @@ Rewrite the sentence as a better version that stays GCSE-level, includes clearer
 Include **as many improved lines as needed**, not just the worst ones.
 
 ---
+## ➕ Suggested Points or Elaborations You Missed
 
+You must list 2-3 additional ideas and elaborations that the student has missed compare with the modelAnswer to help student earn Grade 8-9. These should relate to:
+
+- Points of analysis of language techniques
+- Interpretations that connect to writer's purpose or reader effect
+---
 💬 Speak like a real teacher giving coaching. Do not reference the model answer. Focus on structure, evidence, and zoom-in analysis.
 `;
 }
