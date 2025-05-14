@@ -179,12 +179,31 @@ Rewrite the sentence as a better version that stays GCSE-level, includes clearer
 Include **as many improved lines as needed**, not just the worst ones.
 
 ---
-## ➕ Suggested Points or Elaborations You Missed
+---
 
-You must list 2-3 additional ideas and elaborations that the student has missed compare with the modelAnswer to help student earn Grade 8-9. These should relate to:
+## ➕ Missed Points from the Model Answer
 
-- Points of analysis of language techniques
-- Interpretations that connect to writer's purpose or reader effect
+Now do a side-by-side comparison.
+
+Your task is to find 2–3 specific techniques, interpretations, or ideas that are **clearly in the model answer** but **missing** from the student answer.
+
+Use this format for each:
+
+---
+
+🧩 **Model Includes:**  
+(Quote or paraphrased idea from the model answer — a specific line, technique, or interpretation)
+
+🛑 **Student Missed:**  
+(Explain what the student failed to notice or include — no vague advice)
+
+🎯 **How to Add:**  
+(Coach the student on how to include this idea — name the technique or insight, explain where it could go)
+
+---
+
+Use exact words or quotes from the model answer. You MUST pull ideas **directly from the model**, not general writing advice.
+Avoid any mention of the term “model answer” — just present it as teacher coaching.
 ---
 💬 Speak like a real teacher giving coaching. Do not reference the model answer. Focus on structure, evidence, and zoom-in analysis.
 `;
