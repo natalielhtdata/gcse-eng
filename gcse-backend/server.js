@@ -111,10 +111,27 @@ Include **as many improved lines as needed**, not just the weakest ones.
 
 ## ➕ Suggested Points or Elaborations You Missed
 
-You must list 2-3 additional ideas and elaborations that the student has missed compare with the modelAnswer to help student earn Grade 8-9. These should relate to:
+Compare the student answer to the model answer **sentence-by-sentence**.
 
-- Points of analysis of language techniques
-- Interpretations that connect to writer's purpose or reader effect
+Identify **2 or 3 specific points** that are clearly present in the model answer but missing from the student’s answer.
+
+Use this format for each missed point:
+
+🔍 **Missed Idea:**
+[Summarise the idea/technique/example used in the model answer.]
+
+📌 **Why It Matters:**
+[Explain what this adds — e.g. a deeper interpretation, more precise technique, or stronger effect.]
+
+🧠 **Tip for Student:**
+[Give advice on how to include this idea in their own answer — without copying it.]
+
+You MUST use ideas found directly in the model answer, such as:
+- Named techniques or methods (e.g. metaphor, alliteration, modal verbs, contrast)
+- Specific quotes or phrases the model analysed
+- Deeper interpretations or effect analysis the student missed
+
+Do NOT say “the model answer said...” — just describe the missed points naturally as helpful teacher advice.
 
 ---
 💬 You are not just correcting — you are coaching. Do not mention “PETER” or “model answer” in your feedback. Just teach clearly through structure, technique, and smart rewriting.
@@ -179,28 +196,28 @@ Rewrite the sentence as a better version that stays GCSE-level, includes clearer
 Include **as many improved lines as needed**, not just the worst ones.
 
 ---
----
 
-## ➕ Missed Points from the Model Answer
+## ➕ Suggested Points or Elaborations You Missed
 
-Now do a side-by-side comparison.
+Compare the student answer to the model answer **sentence-by-sentence**.
 
-Your task is to find 2–3 specific techniques, interpretations, or ideas that are **clearly in the model answer** but **missing** from the student answer.
+Identify **2 or 3 specific points** that are clearly present in the model answer but missing from the student’s answer.
 
-Use this format for each:
+Use this format for each missed point:
 
----
+🔍 **Missed Idea:**
+[Summarise the idea/technique/example used in the model answer.]
 
-🧩 **Model Includes:**  
-(Quote or paraphrased idea from the model answer — a specific line, technique, or interpretation)
+📌 **Why It Matters:**
+[Explain what this adds — e.g. a deeper interpretation, more precise technique, or stronger effect.]
 
-🛑 **Student Missed:**  
-(Explain what the student failed to notice or include — no vague advice)
+🧠 **Tip for Student:**
+[Give advice on how to include this idea in their own answer — without copying it.]
 
-🎯 **How to Add:**  
-(Coach the student on how to include this idea — name the technique or insight, explain where it could go)
-
----
+You MUST use ideas found directly in the model answer, such as:
+- Named techniques or methods (e.g. metaphor, alliteration, modal verbs, contrast)
+- Specific quotes or phrases the model analysed
+- Deeper interpretations or effect analysis the student missed
 
 Use exact words or quotes from the model answer. You MUST pull ideas **directly from the model**, not general writing advice.
 Avoid any mention of the term “model answer” — just present it as teacher coaching.
