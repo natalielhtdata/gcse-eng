@@ -66,13 +66,6 @@ You must guide the student to improve toward a Grade 8–9 using clear, structur
 ## 📄 Student Answer
 
 ${userAnswer}
-
----
-
-## 📄 Model Answer (for internal reference only)
-
-${modelAnswer}
-
 ---
 
 ## ✅ Overall Feedback
@@ -109,7 +102,9 @@ Include **as many improved lines as needed**, not just the weakest ones.
 
 ---
 
----
+## 📄 Model Answer (for internal reference only)
+
+${modelAnswer}
 
 ## 🌟 Grade 9-Level Answer Highlights
 
@@ -143,12 +138,6 @@ You must help the student develop a structured, well-supported opinion using cle
 ## 📄 Student Answer
 
 ${userAnswer}
-
----
-
-## 📄 Model Answer (for internal reference only)
-
-${modelAnswer}
 
 ---
 
@@ -191,30 +180,26 @@ Include **as many improved lines as needed**, not just the worst ones.
 
 ---
 
-## ➕ Suggested Points or Elaborations You Missed
+## 📄 Model Answer (for internal reference only)
 
-Compare the student answer to the model answer **sentence-by-sentence**.
+${modelAnswer}
 
-Identify **2 or 3 specific points** that are clearly present in the model answer but missing from the student’s answer.
+## 🌟 Grade 9-Level Answer Highlights
 
-Use this format for each missed point:
+From the model answer above, select 3 of the strongest sentences or points.
 
-🔍 **Missed Idea:**
-[Summarise the idea/technique/example used in the model answer.]
+For each one:
+- Quote the sentence or phrase directly from the model answer
+- Explain why it shows high-level thinking, analysis, or technique
+- Give a short, specific tip for how the student could learn from it — without copying
 
-📌 **Why It Matters:**
-[Explain what this adds — e.g. a deeper interpretation, more precise technique, or stronger effect.]
+Write this in a clear, encouraging teacher tone. Do not refer to it as a “model answer.” Just present these as strong examples to learn from.
 
-🧠 **Tip for Student:**
-[Give advice on how to include this idea in their own answer — without copying it.]
+Use this structure:
 
-You MUST use ideas found directly in the model answer, such as:
-- Named techniques or methods (e.g. metaphor, alliteration, modal verbs, contrast)
-- Specific quotes or phrases the model analysed
-- Deeper interpretations or effect analysis the student missed
-
-Use exact words or quotes from the model answer. You MUST pull ideas **directly from the model**, not general writing advice.
-Avoid any mention of the term “model answer” — just present it as teacher coaching.
+   - “Quoted sentence from model”
+   - Why this is strong: [explanation]
+   - Tip: [how the student can learn or try something similar]
 ---
 💬 Speak like a real teacher giving coaching. Do not reference the model answer. Focus on structure, evidence, and zoom-in analysis.
 `;
