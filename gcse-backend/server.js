@@ -109,22 +109,24 @@ Include **as many improved lines as needed**, not just the weakest ones.
 
 ---
 
-## 🧠 Additional Ideas You Could Include
-
-Below is the model answer, broken into key numbered points. Review each one.
-
-If the student **does not mention** that point in their answer, explain what was missed in a short teacher-style paragraph. Do not use bullet points. Do not name the “model answer.” Just explain what the student could have added, naturally.
-
 ---
 
-### Model Answer Key Points:
+## 🌟 Grade 9-Level Answer Highlights
 
-1. [Sentence or idea 1 from model answer]
-2. [Sentence or idea 2 from model answer]
-3. [Sentence or idea 3 from model answer]
-4. [etc.]
+From the model answer above, select 3 of the strongest sentences or points.
 
-Now write teacher feedback paragraphs only for the points the student missed.
+For each one:
+- Quote the sentence or phrase directly from the model answer
+- Explain why it shows high-level thinking, analysis, or technique
+- Give a short, specific tip for how the student could learn from it — without copying
+
+Write this in a clear, encouraging teacher tone. Do not refer to it as a “model answer.” Just present these as strong examples to learn from.
+
+Use this structure:
+
+   - “Quoted sentence from model”
+   - Why this is strong: [explanation]
+   - Tip: [how the student can learn or try something similar]
 ---
 💬 You are not just correcting — you are coaching. 
 `;
